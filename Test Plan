@@ -10,35 +10,23 @@ TABLE OF CONTENTS (TOC)
 2.1 Objectives
 2.2 Tasks
 
-4.0 Testing Strategy
-4.1 Unit Testing
-4.2 Function Testing
+3.0 Testing Strategy
+3.1 Unit Testing
+3.2 Function Testing
 
-5.0 Hardware Requirements
+4.0 Hardware Requirements
 
-6.0 Environment Requirements
-6.1 Main Frame
-6.2 Workstation
+5.0 Environment Requirements
 
-7.0 Test Schedule
+6.0 Test Schedule
 
-8.0 Control Procedures
+7.0 FEATURES NOT TO BE TESTED
 
-9.0 Features to Be Tested
+8.0 FEATURES NOT TO BE TESTED
 
-10.0 Features Not to Be Tested
+9.0 Tools
 
-11.0 Resources/Roles & Responsibilities
-
-12.0 Schedules
-
-14.0 Dependencies
-
-15.0 Risks/Assumptions
-
-16.0 Tools
-
-17.0 Approvals
+10.0 Approvals
 
 
 
@@ -53,43 +41,42 @@ TABLE OF CONTENTS (TOC)
 2.2 Tasks
     The tasks that will need to be completed are: the test plan, testing implementation, fixes in the functionality and input validations that were not caught, then more funtction additions past just the base that I currently have. 
 
-
-4.0 TESTING STRATEGY
+3.0 TESTING STRATEGY
     Since I am the only person working on this project I will be doing all the testing. I plan on using unit and functional testing for this project. 
 
-4.1 Unit Testing
+3.1 Unit Testing
 
 Definition: Unit testing is the testing of specific units and modules of the program. 
 
 Methodology: I plan on going through each module in the program and seeing what is being passed into each method and testing inputs that way for them. On top of this I plan on coming up with different input cases that could have issues that need to be found.  
 
-4.2 Functional Testing
+3.2 Functional Testing
 
 Definition: Funcitonal testing is the testing of the overall function of the project. 
 
 Methodology: I plan on testing the functionality of the project by: first creating a list of different functions where I believe there could be issues, then I will go through each case and test them, then I will document my results, and after that I will update the project however needed.   
 
-5.0 HARDWARE REQUIREMENTS
+4.0 HARDWARE REQUIREMENTS
     A computer. 
     A phone that has an android operating system with a usb cable(optional). 
 
-6.0 ENVIRONMENT REQUIREMENTS
+5.0 ENVIRONMENT REQUIREMENTS
     Android Studio installed. 
     If no phone with android then the installation of an AVD(Android Virtual Device) is necessary. 
 
-7.0 TEST SCHEDULE
+6.0 TEST SCHEDULE
     The first milestone is this test plan, next I plan on creating the test cases and doing more testing over the winter break, lastly I will turn in the code for the program. 
 
-9.0 FEATURES TO BE TESTED
+7.0 FEATURES TO BE TESTED
     The features that need testing are: the input for the map, the movement of the map, and the ability to get directions from Google Maps.
 
-10.0 FEATURES NOT TO BE TESTED
+8.0 FEATURES NOT TO BE TESTED
     The main feature that I believe does not need any testing is the inital input button to get into the map page.
 
-16.0 TOOLS
+9.0 TOOLS
     I plan on using the test files provided in the android studio app, I will also look into seeing if there is something like the JUnit testing like there is for the base version of Java. 
 
-17.0 APPROVALS
+10.0 APPROVALS
 
 Specify the names and titles of all the persons who must approve this plan. Provide space for the signatures and dates.
 
