@@ -49,13 +49,16 @@ TABLE OF CONTENTS (TOC)
 Definition: Unit testing is the testing of specific units and modules of the program. 
 
 Methodology: I plan on going through each module in the program and seeing what is being passed into each method and testing inputs that way for them. On top of this I plan on coming up with different input cases that could have issues that need to be found.  
+                For example I plan on making test cases for different map destination inputs, and also any other inputs that I would add in the future.
+
 
 3.2 Functional Testing
 
 Definition: Funcitonal testing is the testing of the overall function of the project. 
 
 Methodology: I plan on testing the functionality of the project by: first creating a list of different functions where I believe there could be issues, then I will go through each case and test them, then I will document my results, and after that I will update the project however needed.   
-
+               An example would be some test cases for the use of the map and the initial starting of the map. Also, things like testing the different try catch blocks I added in the code. 
+                
 4.0 HARDWARE REQUIREMENTS
     A computer. 
     A phone that has an android operating system with a usb cable(optional). 
